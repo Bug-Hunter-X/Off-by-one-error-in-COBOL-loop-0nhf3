@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program demonstrating a common off-by-one error in loops. The program intends to count from 1 to 10, but due to an error in the loop condition, it counts to 11. The solution demonstrates the corrected code.
